@@ -1,4 +1,4 @@
-package ma.emsi.elachab.tp0.tp0_elachab;
+package ma.emsi.elachab.tp0.tp0_elachab.jsf;
 
 import jakarta.faces.application.FacesMessage;
 import jakarta.faces.context.FacesContext;
@@ -6,6 +6,7 @@ import jakarta.faces.model.SelectItem;
 import jakarta.faces.view.ViewScoped;
 import jakarta.inject.Inject;
 import jakarta.inject.Named;
+import ma.emsi.elachab.tp0.tp0_elachab.service.GenerateurReponse;
 
 import java.io.Serializable;
 import java.util.ArrayList;

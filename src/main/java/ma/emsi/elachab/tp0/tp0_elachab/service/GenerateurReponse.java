@@ -1,4 +1,4 @@
-package ma.emsi.elachab.tp0.tp0_elachab;
+package ma.emsi.elachab.tp0.tp0_elachab.service;
 
 import jakarta.enterprise.context.Dependent;
 import java.io.Serializable;
